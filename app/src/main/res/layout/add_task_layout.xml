@@ -21,6 +21,7 @@
         android:layout_below="@id/edittext"
         android:layout_alignParentEnd="true"
         android:text="SAVE"
+        android:textColor="@color/white"
         android:textSize="20sp"
         android:fontFamily="@font/deius"
         android:backgroundTint="#0B92E4"
